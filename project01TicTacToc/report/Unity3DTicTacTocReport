@@ -7,7 +7,8 @@ Unity3D游戏一：IMGUI井字棋
 了解 OnGUI() 事件，提升 debug 能力
 提升阅读 API 文档能力
 实现
-完整代码传送门->[🚪][https://github.com/Tifinity/Unity3DStudy-master/tree/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E4%BA%95%E5%AD%97%E6%A3%8B]
+完整代码传送门->[🚪]https://github.com/bolonghuang/Unity3D/blob/main/project01TicTacToc/scripts/initBeh.cs]
+视频传送门->[https://www.bilibili.com/video/BV1pU4y1A71d?spm_id_from=333.999.0.0]
 
 首先使用IMGUI搭建出游戏界面
 
